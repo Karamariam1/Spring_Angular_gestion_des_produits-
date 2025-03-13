@@ -1,0 +1,6 @@
+com\universiapolis\gestion_produits\repository\ProductRepository.class
+com\universiapolis\gestion_produits\entity\Product.class
+com\universiapolis\gestion_produits\metier\IProduit.class
+com\universiapolis\gestion_produits\controller\ProductController.class
+com\universiapolis\gestion_produits\GestionProduitsApplication.class
+com\universiapolis\gestion_produits\metier\IProductImpl.class
